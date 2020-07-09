@@ -1,0 +1,15 @@
+header{background-color:#F0FFF0;}
+.navbar-nav li {margin: 10px;}
+.navbar-brand img{width: 200px;}
+.btn{border: 1px solid #21B573;
+background-color: #21B573;
+border-radius: 20px;
+color: white !important;
+padding: 5px 20px;
+}
+.card{border: none;
+background-color: #F0FFF0;
+border-radius: 20px;
+}
+.card img{width: 50%;}
+.card:hover{background-color: white;}
