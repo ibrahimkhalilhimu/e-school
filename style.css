@@ -12,6 +12,23 @@ background-color: #F0FFF0;
 border-radius: 10px;
 
 }
-.card img{width: 50%;}
+.card img{width: 25%;}
 .card:hover{background-color: white;
 box-shadow: 5px 5px 10px lightgray;}
+.pic,.pic1,.pic2 {
+background-color: white;
+box-shadow: 5px 5px 10px lightgray;
+}
+.pic img{width: 100%;}
+.pic1 img{width: 100%;}
+.pic2 img{width: 100%;}
+
+.card-footer{background-color:white;
+border: none;
+padding: 5px;}
+.online-footer img{width: 30px;
+padding: 5px;}
+.row img{
+width: 100px;}
+.last-part{background-color:black;}
+.list{list-style: none;}
